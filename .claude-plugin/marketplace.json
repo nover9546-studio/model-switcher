@@ -1,0 +1,5 @@
+{
+  "name": "model-switcher",
+  "owner": { "name": "nover9546-studio" },
+  "plugins": [{ "name": "model-switcher", "source": "./" }]
+}

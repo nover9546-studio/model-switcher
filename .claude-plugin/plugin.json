@@ -1,0 +1,6 @@
+{
+  "name": "model-switcher",
+  "version": "0.1.0",
+  "description": "在輸入框上方放模型（Opus/Sonnet/Haiku）與投入程度的切換按鈕",
+  "types": "./types/index.d.ts"
+}
